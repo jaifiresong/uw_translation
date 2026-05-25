@@ -1,0 +1,10 @@
+.idea
+.vscode
+.claude
+build
+Release
+!.env.example*
+.local
+.env
+.obsidian
+logs
